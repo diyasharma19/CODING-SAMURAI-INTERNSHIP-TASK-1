@@ -9,7 +9,7 @@
 .container{
     width:100%;
     height:100vh;
-    background: #e3f9ff;
+    background:linear-gradient(135deg, #ffd000, #FF66B2);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,7 +33,7 @@
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2);
     background: transparent;
-    font-size: 20px;
+    font-size: 25px;
     color: #fff;
     cursor: pointer;
     margin: 10px;
